@@ -1,0 +1,9 @@
+{
+  "alpha": {
+    "aws_region": "ap-south-1",
+    "django_settings": "todo.settings.prod",
+    "project_name": "django-sample-project",
+    "runtime": "python3.9",
+    "s3_bucket": "my_bucket"
+  }
+}
